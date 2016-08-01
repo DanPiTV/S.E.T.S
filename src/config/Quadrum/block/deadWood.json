@@ -1,0 +1,35 @@
+{
+    "name": "deadWood",
+	
+    "default-texture": "falloutWood_Side",
+    "texture-info": {
+        "front": "deadWood1",
+        "back": "deadWood1",
+        "left": "deadWood1",
+        "right": "deadWood1",
+        "top": "deadWood2",
+        "bottom": "deadWood2"
+    },
+	
+    "material": "wood",
+	"light-level": 0,
+	"redstone-level": 0,
+	"max-stack-size": 64,
+	"mining-level": 0,
+	"transparent": false,
+	"requires-tool": false,
+	"drops-self": true,
+	"collision": true,	
+	"flammable": true,
+	"soil": false,
+	"burn-time": 500,
+	"resistance": 2.5F,
+	"type": "block",
+    "hardness": 1,
+    "ore-dictionary": [
+        "deadWood"
+    ],
+	
+    "mob-drops": {}
+	
+}

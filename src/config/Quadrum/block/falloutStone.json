@@ -1,0 +1,35 @@
+{
+    "name": "falloutStone",
+	
+    "default-texture": "falloutStone",
+    "texture-info": {
+        "front": "falloutStone",
+        "back": "falloutStone",
+        "left": "falloutStone",
+        "right": "falloutStone",
+        "top": "falloutStone",
+        "bottom": "falloutStone"
+    },
+	
+    "material": "stone",
+	"light-level": 0,
+	"redstone-level": 0,
+	"max-stack-size": 64,
+	"mining-level": 0,
+	"transparent": false,
+	"requires-tool": true,
+	"drops-self": true,
+	"collision": true,	
+	"flammable": false,
+	"soil": false,
+	"burn-time": 0,
+	"resistance": 30,
+	"type": "block",
+    "hardness": 1.5F,
+    "ore-dictionary": [
+        "falloutStone"
+    ],
+	
+    "mob-drops": {}
+	
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Trash",
+	
+    "default-texture": "topTrash",
+    "texture-info": {
+        "front": "leftTrash1",
+        "back": "leftTrash2",
+        "left": "leftTrash2",
+        "right": "leftTrash4",
+        "top": "leftTrash3",
+        "bottom": "leftTrash1"
+    },
+	
+    "material": "wood",
+	"light-level": 0,
+	"redstone-level": 0,
+	"max-stack-size": 64,
+	"mining-level": 0,
+	"transparent": false,
+	"requires-tool": false,
+	"drops-self": false,
+	"collision": true,	
+	"flammable": false,
+	"soil": false,
+	"burn-time": 0,
+	"resistance": 2.5F,
+	"type": "block",
+    "hardness": 1,
+    "ore-dictionary": [
+        "Trash"
+    ],
+	
+    "mob-drops": {}
+	
+}

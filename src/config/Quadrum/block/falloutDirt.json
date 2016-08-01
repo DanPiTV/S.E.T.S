@@ -1,0 +1,35 @@
+{
+    "name": "falloutDirt",
+	
+    "default-texture": "falloutDirt",
+    "texture-info": {
+        "front": "falloutDirt",
+        "back": "falloutDirt",
+        "left": "falloutDirt",
+        "right": "falloutDirt",
+        "top": "falloutDirt",
+        "bottom": "falloutDirt"
+    },
+	
+    "material": "dirt",
+	"light-level": 0,
+	"redstone-level": 0,
+	"max-stack-size": 64,
+	"mining-level": 0,
+	"transparent": false,
+	"requires-tool": false,
+	"drops-self": true,
+	"collision": true,	
+	"flammable": false,
+	"soil": false,
+	"burn-time": 0,
+	"resistance": 2.5F,
+	"type": "block",
+    "hardness": 0.5F,
+    "ore-dictionary": [
+        "falloutDirt"
+    ],
+	
+    "mob-drops": {}
+	
+}
